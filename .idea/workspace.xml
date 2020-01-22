@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SimpleCalendar:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9d11f17d-ba1e-4ba2-bc41-27c3262ba7bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holidays.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SimpleCalendar/HelperFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SimpleCalendar/HelperFunctions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar$2$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SimpleCalendar/SimpleCalendar.class" afterDir="false" />
@@ -29,18 +34,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WhiXRtlggya6HQhNRTkQKZlPFg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected="Application.SimpleCalendar">
@@ -88,29 +96,50 @@
       <option name="presentableId" value="Default" />
       <updated>1579608267153</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1579683226185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579683226185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="199" key="#Project_Structure" timestamp="1579608281976">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="199" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1579608281976" />
-    <state width="1877" height="170" key="GridCell.Tab.0.bottom" timestamp="1579642283450">
+    <state x="690" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579689097843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579642283450" />
-    <state width="1877" height="170" key="GridCell.Tab.0.center" timestamp="1579642283450">
+    <state x="690" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579689097843" />
+    <state x="606" y="135" key="CommitChangelistDialog2" timestamp="1579690455684">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="170" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579642283450" />
-    <state width="1877" height="170" key="GridCell.Tab.0.left" timestamp="1579642283450">
+    <state x="606" y="135" key="CommitChangelistDialog2/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579690455684" />
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom" timestamp="1579690455716">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="170" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579642283450" />
-    <state width="1877" height="170" key="GridCell.Tab.0.right" timestamp="1579642283450">
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579690455716" />
+    <state width="1877" height="215" key="GridCell.Tab.0.center" timestamp="1579690455716">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="170" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579642283450" />
+    <state width="1877" height="215" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579690455716" />
+    <state width="1877" height="215" key="GridCell.Tab.0.left" timestamp="1579690455716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579690455716" />
+    <state width="1877" height="215" key="GridCell.Tab.0.right" timestamp="1579690455716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579690455716" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1579626401451">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -127,6 +156,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579626401451" />
+    <state x="440" y="115" key="SettingsEditor" timestamp="1579689168328">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="115" key="SettingsEditor/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579689168328" />
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2" timestamp="1579683227864">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.456.1920.1080@0.0.1920.1080" timestamp="1579683227864" />
     <state x="661" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1579608270371">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
